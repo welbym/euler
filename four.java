@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Iterator;
 public class four{
   public static void main (String[] args){
     ArrayList<Integer> pal = new ArrayList<Integer>();
